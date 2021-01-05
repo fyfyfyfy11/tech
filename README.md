@@ -1,0 +1,2 @@
+# tech
+new start studying
